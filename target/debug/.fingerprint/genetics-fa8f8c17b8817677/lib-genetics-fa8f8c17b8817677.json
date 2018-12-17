@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":12695253189747646280,"profile":18438291298361050944,"path":10872709659218687626,"deps":[["rand v0.5.5","rand",2656908461406122101]],"local":[{"MtimeBased":[[1545015210,601974454],".fingerprint/genetics-fa8f8c17b8817677/dep-lib-genetics-fa8f8c17b8817677"]}],"rustflags":[],"edition":"Edition2015"}

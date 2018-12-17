@@ -1,0 +1,1 @@
+/home/gelwick/Progects/Rust/genetics/target/debug/libgenetics.rlib: /home/gelwick/Progects/Rust/genetics/src/chromosome.rs /home/gelwick/Progects/Rust/genetics/src/enums.rs /home/gelwick/Progects/Rust/genetics/src/gene.rs /home/gelwick/Progects/Rust/genetics/src/genome.rs /home/gelwick/Progects/Rust/genetics/src/lib.rs /home/gelwick/Progects/Rust/genetics/src/nucleotide.rs
